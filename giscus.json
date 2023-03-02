@@ -1,3 +1,4 @@
 {
-  "origins": ["https://www.physicslog.com"]
+  "origins": ["https://www.physicslog.com"],
+  "defaultCommentOrder": "newest"
 }
