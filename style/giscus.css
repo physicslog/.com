@@ -80,10 +80,9 @@ main {
   --color-danger-subtle: #ffebe9;
   --color-primer-shadow-inset: inset 0 1px 0 rgb(208 215 222 / 20%);
   --color-primer-shadow-focus: 0 0 0 3px rgb(9 105 218 / 30%);
-  --color-scale-gray-1: #aaa;
 
   /*! Extensions from @primer/css/alerts/flash.scss */
-  --color-social-reaction-bg-hover: var(--color-scale-gray-1);
+  --color-social-reaction-bg-hover: #eaeef2;
   --color-social-reaction-bg-reacted-hover: #eaeef2;
 }
 
