@@ -11,6 +11,8 @@ Namaskar (Na·mas·kar / न·मस्·कार, नमस्कार)<img s
 - If you notice any bugs on the [PhysicsLog.com](http://physicslog.com/) website design, please report it using [Issues](https://github.com/physicslog/.com/issues).
 - [Pull requests](https://github.com/physicslog/.com/pulls) will only be used to update [README.md](https://github.com/physicslog/.com/blob/main/README.md).
 
+*I use [giscus](http://giscus.app/) as a comment system on my [blog](https://www.physicslog.com/blog) and [mini-blog](https://www.physicslog.com/thought/). You can read the blogpost: [(04/March/2023) Migrated from disqus to giscus](https://www.physicslog.com/thought/2023/03/migrated-from-disqus-to-giscus/).*
+
 *I hope you enjoy your stay at [PhysicsLog.com](http://physicslog.com/).*
 
 See you again!\
