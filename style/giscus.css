@@ -4,6 +4,8 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 
+@import url("https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css");
+
 main {
   font-family: "KaTeX_Main" !important;
 }
