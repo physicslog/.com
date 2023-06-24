@@ -6,6 +6,17 @@
 
 main {
   font-family: "KaTeX_Main" !important;
+}
+
+/* for code */
+code,
+kbd,
+pre,
+samp {
+  font-family: "KaTeX_Main" !important;
+}
+
+main {
   --color-prettylights-syntax-comment: #6e7781;
   --color-prettylights-syntax-constant: #5f5f5f;
   --color-prettylights-syntax-entity: #8250df;
