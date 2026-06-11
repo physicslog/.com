@@ -5,12 +5,12 @@ Namaskar (Na·mas·kar / न·मस्·कार, नमस्कार)<img s
 [![GitHub drhere](https://img.shields.io/badge/follow-%40PhysicsLog-1DA1F2?logo=github&style=social&link=https://github.com/physicslog)](https://github.com/physicslog)
 
 # Notes to Visitors
-- If you notice any bugs on the [PhysicsLog.com](http://physicslog.com/) website design, please report it using [Issues](https://github.com/physicslog/.com/issues).
+- If you notice any bugs on the [rDamodar.com.np](http://rdamodar.com.np) website design, please report it using [Issues](https://github.com/physicslog/.com/issues).
 - [Pull requests](https://github.com/physicslog/.com/pulls) will only be used to update [README.md](https://github.com/physicslog/.com/blob/main/README.md).
 
-*I use [giscus](http://giscus.app/) as a comment system on my [blog](https://www.physicslog.com/blog) and [mini-blog](https://www.physicslog.com/thought/). You can read the blogpost: [(04/March/2023) Migrated from disqus to giscus](https://www.physicslog.com/thought/2023/03/migrated-from-disqus-to-giscus/).*
+*I use [giscus](http://giscus.app/) as a comment system on my [blog](https://www.rdamodar.com.np/blog) and [mini-blog](https://www.rdamodar.com.np/thought/). You can read the blogpost: [(04/March/2023) Migrated from disqus to giscus](https://www.rdamodar.com.np/thought/2023/03/migrated-from-disqus-to-giscus/).*
 
-*I hope you enjoy your stay at [PhysicsLog.com](http://physicslog.com/).*
+*I hope you enjoy your stay at [rDamodar.com.np](https://rdamodar.com.np).*
 
 See you again!\
 Phe·ri Bhe·tau·la! / फे·रि भे·टौ·ला!\
